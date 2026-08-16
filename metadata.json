@@ -1,0 +1,6 @@
+{
+  "name": "ReplyFloat AI",
+  "description": "Intelligent floating reply assistant with contextual suggestions, quick pass-through controls, and instant screen analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

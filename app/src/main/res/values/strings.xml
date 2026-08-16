@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReplyFloat AI</string>
+    <string name="accessibility_service_label">ReplyFloat AI Screen Context Reader</string>
+    <string name="accessibility_service_description">Reads active conversation context to suggest intelligent contextual replies in a floating bar above your chat apps.</string>
+    <string name="notification_channel_service_name">Floating Assistant Service</string>
+    <string name="notification_channel_service_desc">Keeps the ReplyFloat AI floating bar active above applications</string>
+    <string name="notification_channel_bullet_name">Message Detection &amp; Bullet Alerts</string>
+    <string name="notification_channel_bullet_desc">Notifies you when incoming conversational messages are detected</string>
+</resources>
